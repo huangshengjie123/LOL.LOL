@@ -16,7 +16,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"nihao ");
-    NSLog(@"hdjsdhj");
     return YES;
 }
 
